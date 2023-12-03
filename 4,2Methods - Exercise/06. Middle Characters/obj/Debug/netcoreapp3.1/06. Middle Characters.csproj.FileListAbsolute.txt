@@ -1,0 +1,14 @@
+C:\Users\Sherif\Desktop\софтуни\Methods - Exercise\06. Middle Characters\bin\Debug\netcoreapp3.1\06. Middle Characters.exe
+C:\Users\Sherif\Desktop\софтуни\Methods - Exercise\06. Middle Characters\bin\Debug\netcoreapp3.1\06. Middle Characters.deps.json
+C:\Users\Sherif\Desktop\софтуни\Methods - Exercise\06. Middle Characters\bin\Debug\netcoreapp3.1\06. Middle Characters.runtimeconfig.json
+C:\Users\Sherif\Desktop\софтуни\Methods - Exercise\06. Middle Characters\bin\Debug\netcoreapp3.1\06. Middle Characters.runtimeconfig.dev.json
+C:\Users\Sherif\Desktop\софтуни\Methods - Exercise\06. Middle Characters\bin\Debug\netcoreapp3.1\06. Middle Characters.dll
+C:\Users\Sherif\Desktop\софтуни\Methods - Exercise\06. Middle Characters\bin\Debug\netcoreapp3.1\06. Middle Characters.pdb
+C:\Users\Sherif\Desktop\софтуни\Methods - Exercise\06. Middle Characters\obj\Debug\netcoreapp3.1\06. Middle Characters.csproj.AssemblyReference.cache
+C:\Users\Sherif\Desktop\софтуни\Methods - Exercise\06. Middle Characters\obj\Debug\netcoreapp3.1\06. Middle Characters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sherif\Desktop\софтуни\Methods - Exercise\06. Middle Characters\obj\Debug\netcoreapp3.1\06. Middle Characters.AssemblyInfoInputs.cache
+C:\Users\Sherif\Desktop\софтуни\Methods - Exercise\06. Middle Characters\obj\Debug\netcoreapp3.1\06. Middle Characters.AssemblyInfo.cs
+C:\Users\Sherif\Desktop\софтуни\Methods - Exercise\06. Middle Characters\obj\Debug\netcoreapp3.1\06. Middle Characters.csproj.CoreCompileInputs.cache
+C:\Users\Sherif\Desktop\софтуни\Methods - Exercise\06. Middle Characters\obj\Debug\netcoreapp3.1\06. Middle Characters.dll
+C:\Users\Sherif\Desktop\софтуни\Methods - Exercise\06. Middle Characters\obj\Debug\netcoreapp3.1\06. Middle Characters.pdb
+C:\Users\Sherif\Desktop\софтуни\Methods - Exercise\06. Middle Characters\obj\Debug\netcoreapp3.1\06. Middle Characters.genruntimeconfig.cache

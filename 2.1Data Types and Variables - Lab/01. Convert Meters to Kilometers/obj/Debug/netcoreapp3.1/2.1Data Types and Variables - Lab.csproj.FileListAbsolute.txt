@@ -1,0 +1,14 @@
+C:\Users\Sherif\source\repos\01. Convert Meters to Kilometers\2.1Data Types and Variables - Lab\bin\Debug\netcoreapp3.1\2.1Data Types and Variables - Lab.exe
+C:\Users\Sherif\source\repos\01. Convert Meters to Kilometers\2.1Data Types and Variables - Lab\bin\Debug\netcoreapp3.1\2.1Data Types and Variables - Lab.deps.json
+C:\Users\Sherif\source\repos\01. Convert Meters to Kilometers\2.1Data Types and Variables - Lab\bin\Debug\netcoreapp3.1\2.1Data Types and Variables - Lab.runtimeconfig.json
+C:\Users\Sherif\source\repos\01. Convert Meters to Kilometers\2.1Data Types and Variables - Lab\bin\Debug\netcoreapp3.1\2.1Data Types and Variables - Lab.runtimeconfig.dev.json
+C:\Users\Sherif\source\repos\01. Convert Meters to Kilometers\2.1Data Types and Variables - Lab\bin\Debug\netcoreapp3.1\2.1Data Types and Variables - Lab.dll
+C:\Users\Sherif\source\repos\01. Convert Meters to Kilometers\2.1Data Types and Variables - Lab\bin\Debug\netcoreapp3.1\2.1Data Types and Variables - Lab.pdb
+C:\Users\Sherif\source\repos\01. Convert Meters to Kilometers\2.1Data Types and Variables - Lab\obj\Debug\netcoreapp3.1\2.1Data Types and Variables - Lab.csproj.AssemblyReference.cache
+C:\Users\Sherif\source\repos\01. Convert Meters to Kilometers\2.1Data Types and Variables - Lab\obj\Debug\netcoreapp3.1\2.1Data Types and Variables - Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sherif\source\repos\01. Convert Meters to Kilometers\2.1Data Types and Variables - Lab\obj\Debug\netcoreapp3.1\2.1Data Types and Variables - Lab.AssemblyInfoInputs.cache
+C:\Users\Sherif\source\repos\01. Convert Meters to Kilometers\2.1Data Types and Variables - Lab\obj\Debug\netcoreapp3.1\2.1Data Types and Variables - Lab.AssemblyInfo.cs
+C:\Users\Sherif\source\repos\01. Convert Meters to Kilometers\2.1Data Types and Variables - Lab\obj\Debug\netcoreapp3.1\2.1Data Types and Variables - Lab.csproj.CoreCompileInputs.cache
+C:\Users\Sherif\source\repos\01. Convert Meters to Kilometers\2.1Data Types and Variables - Lab\obj\Debug\netcoreapp3.1\2.1Data Types and Variables - Lab.dll
+C:\Users\Sherif\source\repos\01. Convert Meters to Kilometers\2.1Data Types and Variables - Lab\obj\Debug\netcoreapp3.1\2.1Data Types and Variables - Lab.pdb
+C:\Users\Sherif\source\repos\01. Convert Meters to Kilometers\2.1Data Types and Variables - Lab\obj\Debug\netcoreapp3.1\2.1Data Types and Variables - Lab.genruntimeconfig.cache

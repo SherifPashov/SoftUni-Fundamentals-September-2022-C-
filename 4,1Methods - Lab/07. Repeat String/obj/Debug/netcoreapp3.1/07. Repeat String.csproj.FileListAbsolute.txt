@@ -1,0 +1,14 @@
+C:\Users\Sherif\Desktop\софтуни\4,1Methods - Lab\07. Repeat String\bin\Debug\netcoreapp3.1\07. Repeat String.exe
+C:\Users\Sherif\Desktop\софтуни\4,1Methods - Lab\07. Repeat String\bin\Debug\netcoreapp3.1\07. Repeat String.deps.json
+C:\Users\Sherif\Desktop\софтуни\4,1Methods - Lab\07. Repeat String\bin\Debug\netcoreapp3.1\07. Repeat String.runtimeconfig.json
+C:\Users\Sherif\Desktop\софтуни\4,1Methods - Lab\07. Repeat String\bin\Debug\netcoreapp3.1\07. Repeat String.runtimeconfig.dev.json
+C:\Users\Sherif\Desktop\софтуни\4,1Methods - Lab\07. Repeat String\bin\Debug\netcoreapp3.1\07. Repeat String.dll
+C:\Users\Sherif\Desktop\софтуни\4,1Methods - Lab\07. Repeat String\bin\Debug\netcoreapp3.1\07. Repeat String.pdb
+C:\Users\Sherif\Desktop\софтуни\4,1Methods - Lab\07. Repeat String\obj\Debug\netcoreapp3.1\07. Repeat String.csproj.AssemblyReference.cache
+C:\Users\Sherif\Desktop\софтуни\4,1Methods - Lab\07. Repeat String\obj\Debug\netcoreapp3.1\07. Repeat String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sherif\Desktop\софтуни\4,1Methods - Lab\07. Repeat String\obj\Debug\netcoreapp3.1\07. Repeat String.AssemblyInfoInputs.cache
+C:\Users\Sherif\Desktop\софтуни\4,1Methods - Lab\07. Repeat String\obj\Debug\netcoreapp3.1\07. Repeat String.AssemblyInfo.cs
+C:\Users\Sherif\Desktop\софтуни\4,1Methods - Lab\07. Repeat String\obj\Debug\netcoreapp3.1\07. Repeat String.csproj.CoreCompileInputs.cache
+C:\Users\Sherif\Desktop\софтуни\4,1Methods - Lab\07. Repeat String\obj\Debug\netcoreapp3.1\07. Repeat String.dll
+C:\Users\Sherif\Desktop\софтуни\4,1Methods - Lab\07. Repeat String\obj\Debug\netcoreapp3.1\07. Repeat String.pdb
+C:\Users\Sherif\Desktop\софтуни\4,1Methods - Lab\07. Repeat String\obj\Debug\netcoreapp3.1\07. Repeat String.genruntimeconfig.cache

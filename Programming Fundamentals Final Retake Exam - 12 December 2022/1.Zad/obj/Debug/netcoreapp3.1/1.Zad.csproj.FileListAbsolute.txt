@@ -1,0 +1,14 @@
+C:\Users\Sherif\Desktop\софтуни\Programming Fundamentals Final Retake Exam - 12 December 2022\1.Zad\bin\Debug\netcoreapp3.1\1.Zad.exe
+C:\Users\Sherif\Desktop\софтуни\Programming Fundamentals Final Retake Exam - 12 December 2022\1.Zad\bin\Debug\netcoreapp3.1\1.Zad.deps.json
+C:\Users\Sherif\Desktop\софтуни\Programming Fundamentals Final Retake Exam - 12 December 2022\1.Zad\bin\Debug\netcoreapp3.1\1.Zad.runtimeconfig.json
+C:\Users\Sherif\Desktop\софтуни\Programming Fundamentals Final Retake Exam - 12 December 2022\1.Zad\bin\Debug\netcoreapp3.1\1.Zad.runtimeconfig.dev.json
+C:\Users\Sherif\Desktop\софтуни\Programming Fundamentals Final Retake Exam - 12 December 2022\1.Zad\bin\Debug\netcoreapp3.1\1.Zad.dll
+C:\Users\Sherif\Desktop\софтуни\Programming Fundamentals Final Retake Exam - 12 December 2022\1.Zad\bin\Debug\netcoreapp3.1\1.Zad.pdb
+C:\Users\Sherif\Desktop\софтуни\Programming Fundamentals Final Retake Exam - 12 December 2022\1.Zad\obj\Debug\netcoreapp3.1\1.Zad.csproj.AssemblyReference.cache
+C:\Users\Sherif\Desktop\софтуни\Programming Fundamentals Final Retake Exam - 12 December 2022\1.Zad\obj\Debug\netcoreapp3.1\1.Zad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sherif\Desktop\софтуни\Programming Fundamentals Final Retake Exam - 12 December 2022\1.Zad\obj\Debug\netcoreapp3.1\1.Zad.AssemblyInfoInputs.cache
+C:\Users\Sherif\Desktop\софтуни\Programming Fundamentals Final Retake Exam - 12 December 2022\1.Zad\obj\Debug\netcoreapp3.1\1.Zad.AssemblyInfo.cs
+C:\Users\Sherif\Desktop\софтуни\Programming Fundamentals Final Retake Exam - 12 December 2022\1.Zad\obj\Debug\netcoreapp3.1\1.Zad.csproj.CoreCompileInputs.cache
+C:\Users\Sherif\Desktop\софтуни\Programming Fundamentals Final Retake Exam - 12 December 2022\1.Zad\obj\Debug\netcoreapp3.1\1.Zad.dll
+C:\Users\Sherif\Desktop\софтуни\Programming Fundamentals Final Retake Exam - 12 December 2022\1.Zad\obj\Debug\netcoreapp3.1\1.Zad.pdb
+C:\Users\Sherif\Desktop\софтуни\Programming Fundamentals Final Retake Exam - 12 December 2022\1.Zad\obj\Debug\netcoreapp3.1\1.Zad.genruntimeconfig.cache

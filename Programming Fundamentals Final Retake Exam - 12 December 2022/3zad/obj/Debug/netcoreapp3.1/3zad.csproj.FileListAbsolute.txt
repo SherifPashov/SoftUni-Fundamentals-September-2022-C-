@@ -1,0 +1,14 @@
+C:\Users\Sherif\Desktop\софтуни\Programming Fundamentals Final Retake Exam - 12 December 2022\3zad\bin\Debug\netcoreapp3.1\3zad.exe
+C:\Users\Sherif\Desktop\софтуни\Programming Fundamentals Final Retake Exam - 12 December 2022\3zad\bin\Debug\netcoreapp3.1\3zad.deps.json
+C:\Users\Sherif\Desktop\софтуни\Programming Fundamentals Final Retake Exam - 12 December 2022\3zad\bin\Debug\netcoreapp3.1\3zad.runtimeconfig.json
+C:\Users\Sherif\Desktop\софтуни\Programming Fundamentals Final Retake Exam - 12 December 2022\3zad\bin\Debug\netcoreapp3.1\3zad.runtimeconfig.dev.json
+C:\Users\Sherif\Desktop\софтуни\Programming Fundamentals Final Retake Exam - 12 December 2022\3zad\bin\Debug\netcoreapp3.1\3zad.dll
+C:\Users\Sherif\Desktop\софтуни\Programming Fundamentals Final Retake Exam - 12 December 2022\3zad\bin\Debug\netcoreapp3.1\3zad.pdb
+C:\Users\Sherif\Desktop\софтуни\Programming Fundamentals Final Retake Exam - 12 December 2022\3zad\obj\Debug\netcoreapp3.1\3zad.csproj.AssemblyReference.cache
+C:\Users\Sherif\Desktop\софтуни\Programming Fundamentals Final Retake Exam - 12 December 2022\3zad\obj\Debug\netcoreapp3.1\3zad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sherif\Desktop\софтуни\Programming Fundamentals Final Retake Exam - 12 December 2022\3zad\obj\Debug\netcoreapp3.1\3zad.AssemblyInfoInputs.cache
+C:\Users\Sherif\Desktop\софтуни\Programming Fundamentals Final Retake Exam - 12 December 2022\3zad\obj\Debug\netcoreapp3.1\3zad.AssemblyInfo.cs
+C:\Users\Sherif\Desktop\софтуни\Programming Fundamentals Final Retake Exam - 12 December 2022\3zad\obj\Debug\netcoreapp3.1\3zad.csproj.CoreCompileInputs.cache
+C:\Users\Sherif\Desktop\софтуни\Programming Fundamentals Final Retake Exam - 12 December 2022\3zad\obj\Debug\netcoreapp3.1\3zad.dll
+C:\Users\Sherif\Desktop\софтуни\Programming Fundamentals Final Retake Exam - 12 December 2022\3zad\obj\Debug\netcoreapp3.1\3zad.pdb
+C:\Users\Sherif\Desktop\софтуни\Programming Fundamentals Final Retake Exam - 12 December 2022\3zad\obj\Debug\netcoreapp3.1\3zad.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Sherif\Desktop\софтуни\02. Programming Fundamentals Final Exam\01. World Tour\bin\Debug\netcoreapp3.1\01. World Tour.exe
+C:\Users\Sherif\Desktop\софтуни\02. Programming Fundamentals Final Exam\01. World Tour\bin\Debug\netcoreapp3.1\01. World Tour.deps.json
+C:\Users\Sherif\Desktop\софтуни\02. Programming Fundamentals Final Exam\01. World Tour\bin\Debug\netcoreapp3.1\01. World Tour.runtimeconfig.json
+C:\Users\Sherif\Desktop\софтуни\02. Programming Fundamentals Final Exam\01. World Tour\bin\Debug\netcoreapp3.1\01. World Tour.runtimeconfig.dev.json
+C:\Users\Sherif\Desktop\софтуни\02. Programming Fundamentals Final Exam\01. World Tour\bin\Debug\netcoreapp3.1\01. World Tour.dll
+C:\Users\Sherif\Desktop\софтуни\02. Programming Fundamentals Final Exam\01. World Tour\bin\Debug\netcoreapp3.1\01. World Tour.pdb
+C:\Users\Sherif\Desktop\софтуни\02. Programming Fundamentals Final Exam\01. World Tour\obj\Debug\netcoreapp3.1\01. World Tour.csproj.AssemblyReference.cache
+C:\Users\Sherif\Desktop\софтуни\02. Programming Fundamentals Final Exam\01. World Tour\obj\Debug\netcoreapp3.1\01. World Tour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sherif\Desktop\софтуни\02. Programming Fundamentals Final Exam\01. World Tour\obj\Debug\netcoreapp3.1\01. World Tour.AssemblyInfoInputs.cache
+C:\Users\Sherif\Desktop\софтуни\02. Programming Fundamentals Final Exam\01. World Tour\obj\Debug\netcoreapp3.1\01. World Tour.AssemblyInfo.cs
+C:\Users\Sherif\Desktop\софтуни\02. Programming Fundamentals Final Exam\01. World Tour\obj\Debug\netcoreapp3.1\01. World Tour.csproj.CoreCompileInputs.cache
+C:\Users\Sherif\Desktop\софтуни\02. Programming Fundamentals Final Exam\01. World Tour\obj\Debug\netcoreapp3.1\01. World Tour.dll
+C:\Users\Sherif\Desktop\софтуни\02. Programming Fundamentals Final Exam\01. World Tour\obj\Debug\netcoreapp3.1\01. World Tour.pdb
+C:\Users\Sherif\Desktop\софтуни\02. Programming Fundamentals Final Exam\01. World Tour\obj\Debug\netcoreapp3.1\01. World Tour.genruntimeconfig.cache

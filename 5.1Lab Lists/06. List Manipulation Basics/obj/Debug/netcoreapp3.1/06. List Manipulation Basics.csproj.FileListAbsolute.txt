@@ -1,0 +1,14 @@
+C:\Users\Sherif\Desktop\софтуни\5.1Lab Lists\06. List Manipulation Basics\bin\Debug\netcoreapp3.1\06. List Manipulation Basics.exe
+C:\Users\Sherif\Desktop\софтуни\5.1Lab Lists\06. List Manipulation Basics\bin\Debug\netcoreapp3.1\06. List Manipulation Basics.deps.json
+C:\Users\Sherif\Desktop\софтуни\5.1Lab Lists\06. List Manipulation Basics\bin\Debug\netcoreapp3.1\06. List Manipulation Basics.runtimeconfig.json
+C:\Users\Sherif\Desktop\софтуни\5.1Lab Lists\06. List Manipulation Basics\bin\Debug\netcoreapp3.1\06. List Manipulation Basics.runtimeconfig.dev.json
+C:\Users\Sherif\Desktop\софтуни\5.1Lab Lists\06. List Manipulation Basics\bin\Debug\netcoreapp3.1\06. List Manipulation Basics.dll
+C:\Users\Sherif\Desktop\софтуни\5.1Lab Lists\06. List Manipulation Basics\bin\Debug\netcoreapp3.1\06. List Manipulation Basics.pdb
+C:\Users\Sherif\Desktop\софтуни\5.1Lab Lists\06. List Manipulation Basics\obj\Debug\netcoreapp3.1\06. List Manipulation Basics.csproj.AssemblyReference.cache
+C:\Users\Sherif\Desktop\софтуни\5.1Lab Lists\06. List Manipulation Basics\obj\Debug\netcoreapp3.1\06. List Manipulation Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sherif\Desktop\софтуни\5.1Lab Lists\06. List Manipulation Basics\obj\Debug\netcoreapp3.1\06. List Manipulation Basics.AssemblyInfoInputs.cache
+C:\Users\Sherif\Desktop\софтуни\5.1Lab Lists\06. List Manipulation Basics\obj\Debug\netcoreapp3.1\06. List Manipulation Basics.AssemblyInfo.cs
+C:\Users\Sherif\Desktop\софтуни\5.1Lab Lists\06. List Manipulation Basics\obj\Debug\netcoreapp3.1\06. List Manipulation Basics.csproj.CoreCompileInputs.cache
+C:\Users\Sherif\Desktop\софтуни\5.1Lab Lists\06. List Manipulation Basics\obj\Debug\netcoreapp3.1\06. List Manipulation Basics.dll
+C:\Users\Sherif\Desktop\софтуни\5.1Lab Lists\06. List Manipulation Basics\obj\Debug\netcoreapp3.1\06. List Manipulation Basics.pdb
+C:\Users\Sherif\Desktop\софтуни\5.1Lab Lists\06. List Manipulation Basics\obj\Debug\netcoreapp3.1\06. List Manipulation Basics.genruntimeconfig.cache

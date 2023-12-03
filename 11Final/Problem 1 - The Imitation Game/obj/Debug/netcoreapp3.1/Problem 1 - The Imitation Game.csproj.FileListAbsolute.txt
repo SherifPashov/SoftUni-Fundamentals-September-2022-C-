@@ -1,0 +1,14 @@
+C:\Users\Sherif\Desktop\софтуни\11Final\Problem 1 - The Imitation Game\bin\Debug\netcoreapp3.1\Problem 1 - The Imitation Game.exe
+C:\Users\Sherif\Desktop\софтуни\11Final\Problem 1 - The Imitation Game\bin\Debug\netcoreapp3.1\Problem 1 - The Imitation Game.deps.json
+C:\Users\Sherif\Desktop\софтуни\11Final\Problem 1 - The Imitation Game\bin\Debug\netcoreapp3.1\Problem 1 - The Imitation Game.runtimeconfig.json
+C:\Users\Sherif\Desktop\софтуни\11Final\Problem 1 - The Imitation Game\bin\Debug\netcoreapp3.1\Problem 1 - The Imitation Game.runtimeconfig.dev.json
+C:\Users\Sherif\Desktop\софтуни\11Final\Problem 1 - The Imitation Game\bin\Debug\netcoreapp3.1\Problem 1 - The Imitation Game.dll
+C:\Users\Sherif\Desktop\софтуни\11Final\Problem 1 - The Imitation Game\bin\Debug\netcoreapp3.1\Problem 1 - The Imitation Game.pdb
+C:\Users\Sherif\Desktop\софтуни\11Final\Problem 1 - The Imitation Game\obj\Debug\netcoreapp3.1\Problem 1 - The Imitation Game.csproj.AssemblyReference.cache
+C:\Users\Sherif\Desktop\софтуни\11Final\Problem 1 - The Imitation Game\obj\Debug\netcoreapp3.1\Problem 1 - The Imitation Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sherif\Desktop\софтуни\11Final\Problem 1 - The Imitation Game\obj\Debug\netcoreapp3.1\Problem 1 - The Imitation Game.AssemblyInfoInputs.cache
+C:\Users\Sherif\Desktop\софтуни\11Final\Problem 1 - The Imitation Game\obj\Debug\netcoreapp3.1\Problem 1 - The Imitation Game.AssemblyInfo.cs
+C:\Users\Sherif\Desktop\софтуни\11Final\Problem 1 - The Imitation Game\obj\Debug\netcoreapp3.1\Problem 1 - The Imitation Game.csproj.CoreCompileInputs.cache
+C:\Users\Sherif\Desktop\софтуни\11Final\Problem 1 - The Imitation Game\obj\Debug\netcoreapp3.1\Problem 1 - The Imitation Game.dll
+C:\Users\Sherif\Desktop\софтуни\11Final\Problem 1 - The Imitation Game\obj\Debug\netcoreapp3.1\Problem 1 - The Imitation Game.pdb
+C:\Users\Sherif\Desktop\софтуни\11Final\Problem 1 - The Imitation Game\obj\Debug\netcoreapp3.1\Problem 1 - The Imitation Game.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Sherif\source\repos\01. Convert Meters to Kilometers\02. Pounds to Dollars\bin\Debug\netcoreapp3.1\02. Pounds to Dollars.exe
+C:\Users\Sherif\source\repos\01. Convert Meters to Kilometers\02. Pounds to Dollars\bin\Debug\netcoreapp3.1\02. Pounds to Dollars.deps.json
+C:\Users\Sherif\source\repos\01. Convert Meters to Kilometers\02. Pounds to Dollars\bin\Debug\netcoreapp3.1\02. Pounds to Dollars.runtimeconfig.json
+C:\Users\Sherif\source\repos\01. Convert Meters to Kilometers\02. Pounds to Dollars\bin\Debug\netcoreapp3.1\02. Pounds to Dollars.runtimeconfig.dev.json
+C:\Users\Sherif\source\repos\01. Convert Meters to Kilometers\02. Pounds to Dollars\bin\Debug\netcoreapp3.1\02. Pounds to Dollars.dll
+C:\Users\Sherif\source\repos\01. Convert Meters to Kilometers\02. Pounds to Dollars\bin\Debug\netcoreapp3.1\02. Pounds to Dollars.pdb
+C:\Users\Sherif\source\repos\01. Convert Meters to Kilometers\02. Pounds to Dollars\obj\Debug\netcoreapp3.1\02. Pounds to Dollars.csproj.AssemblyReference.cache
+C:\Users\Sherif\source\repos\01. Convert Meters to Kilometers\02. Pounds to Dollars\obj\Debug\netcoreapp3.1\02. Pounds to Dollars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sherif\source\repos\01. Convert Meters to Kilometers\02. Pounds to Dollars\obj\Debug\netcoreapp3.1\02. Pounds to Dollars.AssemblyInfoInputs.cache
+C:\Users\Sherif\source\repos\01. Convert Meters to Kilometers\02. Pounds to Dollars\obj\Debug\netcoreapp3.1\02. Pounds to Dollars.AssemblyInfo.cs
+C:\Users\Sherif\source\repos\01. Convert Meters to Kilometers\02. Pounds to Dollars\obj\Debug\netcoreapp3.1\02. Pounds to Dollars.csproj.CoreCompileInputs.cache
+C:\Users\Sherif\source\repos\01. Convert Meters to Kilometers\02. Pounds to Dollars\obj\Debug\netcoreapp3.1\02. Pounds to Dollars.dll
+C:\Users\Sherif\source\repos\01. Convert Meters to Kilometers\02. Pounds to Dollars\obj\Debug\netcoreapp3.1\02. Pounds to Dollars.pdb
+C:\Users\Sherif\source\repos\01. Convert Meters to Kilometers\02. Pounds to Dollars\obj\Debug\netcoreapp3.1\02. Pounds to Dollars.genruntimeconfig.cache

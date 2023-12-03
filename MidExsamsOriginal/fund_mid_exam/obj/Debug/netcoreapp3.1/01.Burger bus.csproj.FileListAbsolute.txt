@@ -1,0 +1,14 @@
+C:\Users\Sherif\Desktop\софтуни\MidExsamsOriginal\fund_mid_exam\bin\Debug\netcoreapp3.1\01.Burger bus.exe
+C:\Users\Sherif\Desktop\софтуни\MidExsamsOriginal\fund_mid_exam\bin\Debug\netcoreapp3.1\01.Burger bus.deps.json
+C:\Users\Sherif\Desktop\софтуни\MidExsamsOriginal\fund_mid_exam\bin\Debug\netcoreapp3.1\01.Burger bus.runtimeconfig.json
+C:\Users\Sherif\Desktop\софтуни\MidExsamsOriginal\fund_mid_exam\bin\Debug\netcoreapp3.1\01.Burger bus.runtimeconfig.dev.json
+C:\Users\Sherif\Desktop\софтуни\MidExsamsOriginal\fund_mid_exam\bin\Debug\netcoreapp3.1\01.Burger bus.dll
+C:\Users\Sherif\Desktop\софтуни\MidExsamsOriginal\fund_mid_exam\bin\Debug\netcoreapp3.1\01.Burger bus.pdb
+C:\Users\Sherif\Desktop\софтуни\MidExsamsOriginal\fund_mid_exam\obj\Debug\netcoreapp3.1\01.Burger bus.csproj.AssemblyReference.cache
+C:\Users\Sherif\Desktop\софтуни\MidExsamsOriginal\fund_mid_exam\obj\Debug\netcoreapp3.1\01.Burger bus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sherif\Desktop\софтуни\MidExsamsOriginal\fund_mid_exam\obj\Debug\netcoreapp3.1\01.Burger bus.AssemblyInfoInputs.cache
+C:\Users\Sherif\Desktop\софтуни\MidExsamsOriginal\fund_mid_exam\obj\Debug\netcoreapp3.1\01.Burger bus.AssemblyInfo.cs
+C:\Users\Sherif\Desktop\софтуни\MidExsamsOriginal\fund_mid_exam\obj\Debug\netcoreapp3.1\01.Burger bus.csproj.CoreCompileInputs.cache
+C:\Users\Sherif\Desktop\софтуни\MidExsamsOriginal\fund_mid_exam\obj\Debug\netcoreapp3.1\01.Burger bus.dll
+C:\Users\Sherif\Desktop\софтуни\MidExsamsOriginal\fund_mid_exam\obj\Debug\netcoreapp3.1\01.Burger bus.pdb
+C:\Users\Sherif\Desktop\софтуни\MidExsamsOriginal\fund_mid_exam\obj\Debug\netcoreapp3.1\01.Burger bus.genruntimeconfig.cache

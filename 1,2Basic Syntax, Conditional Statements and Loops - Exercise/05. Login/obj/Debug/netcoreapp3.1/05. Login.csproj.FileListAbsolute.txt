@@ -1,0 +1,14 @@
+C:\Users\Rafie\Desktop\софтуни\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\obj\Debug\netcoreapp3.1\05. Login.csproj.AssemblyReference.cache
+C:\Users\Rafie\Desktop\софтуни\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\obj\Debug\netcoreapp3.1\05. Login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafie\Desktop\софтуни\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\obj\Debug\netcoreapp3.1\05. Login.AssemblyInfoInputs.cache
+C:\Users\Rafie\Desktop\софтуни\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\obj\Debug\netcoreapp3.1\05. Login.AssemblyInfo.cs
+C:\Users\Rafie\Desktop\софтуни\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\obj\Debug\netcoreapp3.1\05. Login.csproj.CoreCompileInputs.cache
+C:\Users\Rafie\Desktop\софтуни\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\bin\Debug\netcoreapp3.1\05. Login.exe
+C:\Users\Rafie\Desktop\софтуни\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\bin\Debug\netcoreapp3.1\05. Login.deps.json
+C:\Users\Rafie\Desktop\софтуни\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\bin\Debug\netcoreapp3.1\05. Login.runtimeconfig.json
+C:\Users\Rafie\Desktop\софтуни\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\bin\Debug\netcoreapp3.1\05. Login.runtimeconfig.dev.json
+C:\Users\Rafie\Desktop\софтуни\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\bin\Debug\netcoreapp3.1\05. Login.dll
+C:\Users\Rafie\Desktop\софтуни\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\bin\Debug\netcoreapp3.1\05. Login.pdb
+C:\Users\Rafie\Desktop\софтуни\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\obj\Debug\netcoreapp3.1\05. Login.dll
+C:\Users\Rafie\Desktop\софтуни\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\obj\Debug\netcoreapp3.1\05. Login.pdb
+C:\Users\Rafie\Desktop\софтуни\Basic Syntax, Conditional Statements and Loops - Exercise\05. Login\obj\Debug\netcoreapp3.1\05. Login.genruntimeconfig.cache

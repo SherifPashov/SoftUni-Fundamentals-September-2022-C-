@@ -1,0 +1,14 @@
+C:\Users\Sherif\Desktop\софтуни\4,1Methods - Lab\11. Math operations\bin\Debug\netcoreapp3.1\11. Math operations.exe
+C:\Users\Sherif\Desktop\софтуни\4,1Methods - Lab\11. Math operations\bin\Debug\netcoreapp3.1\11. Math operations.deps.json
+C:\Users\Sherif\Desktop\софтуни\4,1Methods - Lab\11. Math operations\bin\Debug\netcoreapp3.1\11. Math operations.runtimeconfig.json
+C:\Users\Sherif\Desktop\софтуни\4,1Methods - Lab\11. Math operations\bin\Debug\netcoreapp3.1\11. Math operations.runtimeconfig.dev.json
+C:\Users\Sherif\Desktop\софтуни\4,1Methods - Lab\11. Math operations\bin\Debug\netcoreapp3.1\11. Math operations.dll
+C:\Users\Sherif\Desktop\софтуни\4,1Methods - Lab\11. Math operations\bin\Debug\netcoreapp3.1\11. Math operations.pdb
+C:\Users\Sherif\Desktop\софтуни\4,1Methods - Lab\11. Math operations\obj\Debug\netcoreapp3.1\11. Math operations.csproj.AssemblyReference.cache
+C:\Users\Sherif\Desktop\софтуни\4,1Methods - Lab\11. Math operations\obj\Debug\netcoreapp3.1\11. Math operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sherif\Desktop\софтуни\4,1Methods - Lab\11. Math operations\obj\Debug\netcoreapp3.1\11. Math operations.AssemblyInfoInputs.cache
+C:\Users\Sherif\Desktop\софтуни\4,1Methods - Lab\11. Math operations\obj\Debug\netcoreapp3.1\11. Math operations.AssemblyInfo.cs
+C:\Users\Sherif\Desktop\софтуни\4,1Methods - Lab\11. Math operations\obj\Debug\netcoreapp3.1\11. Math operations.csproj.CoreCompileInputs.cache
+C:\Users\Sherif\Desktop\софтуни\4,1Methods - Lab\11. Math operations\obj\Debug\netcoreapp3.1\11. Math operations.dll
+C:\Users\Sherif\Desktop\софтуни\4,1Methods - Lab\11. Math operations\obj\Debug\netcoreapp3.1\11. Math operations.pdb
+C:\Users\Sherif\Desktop\софтуни\4,1Methods - Lab\11. Math operations\obj\Debug\netcoreapp3.1\11. Math operations.genruntimeconfig.cache

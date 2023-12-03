@@ -1,0 +1,14 @@
+C:\Users\Sherif\Desktop\софтуни\8.1Associative Arrays - Lab\2. Odd Occurrences\bin\Debug\netcoreapp3.1\2. Odd Occurrences.exe
+C:\Users\Sherif\Desktop\софтуни\8.1Associative Arrays - Lab\2. Odd Occurrences\bin\Debug\netcoreapp3.1\2. Odd Occurrences.deps.json
+C:\Users\Sherif\Desktop\софтуни\8.1Associative Arrays - Lab\2. Odd Occurrences\bin\Debug\netcoreapp3.1\2. Odd Occurrences.runtimeconfig.json
+C:\Users\Sherif\Desktop\софтуни\8.1Associative Arrays - Lab\2. Odd Occurrences\bin\Debug\netcoreapp3.1\2. Odd Occurrences.runtimeconfig.dev.json
+C:\Users\Sherif\Desktop\софтуни\8.1Associative Arrays - Lab\2. Odd Occurrences\bin\Debug\netcoreapp3.1\2. Odd Occurrences.dll
+C:\Users\Sherif\Desktop\софтуни\8.1Associative Arrays - Lab\2. Odd Occurrences\bin\Debug\netcoreapp3.1\2. Odd Occurrences.pdb
+C:\Users\Sherif\Desktop\софтуни\8.1Associative Arrays - Lab\2. Odd Occurrences\obj\Debug\netcoreapp3.1\2. Odd Occurrences.csproj.AssemblyReference.cache
+C:\Users\Sherif\Desktop\софтуни\8.1Associative Arrays - Lab\2. Odd Occurrences\obj\Debug\netcoreapp3.1\2. Odd Occurrences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sherif\Desktop\софтуни\8.1Associative Arrays - Lab\2. Odd Occurrences\obj\Debug\netcoreapp3.1\2. Odd Occurrences.AssemblyInfoInputs.cache
+C:\Users\Sherif\Desktop\софтуни\8.1Associative Arrays - Lab\2. Odd Occurrences\obj\Debug\netcoreapp3.1\2. Odd Occurrences.AssemblyInfo.cs
+C:\Users\Sherif\Desktop\софтуни\8.1Associative Arrays - Lab\2. Odd Occurrences\obj\Debug\netcoreapp3.1\2. Odd Occurrences.csproj.CoreCompileInputs.cache
+C:\Users\Sherif\Desktop\софтуни\8.1Associative Arrays - Lab\2. Odd Occurrences\obj\Debug\netcoreapp3.1\2. Odd Occurrences.dll
+C:\Users\Sherif\Desktop\софтуни\8.1Associative Arrays - Lab\2. Odd Occurrences\obj\Debug\netcoreapp3.1\2. Odd Occurrences.pdb
+C:\Users\Sherif\Desktop\софтуни\8.1Associative Arrays - Lab\2. Odd Occurrences\obj\Debug\netcoreapp3.1\2. Odd Occurrences.genruntimeconfig.cache

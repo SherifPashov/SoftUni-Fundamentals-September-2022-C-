@@ -1,0 +1,14 @@
+C:\Users\Sherif\source\repos\01. Convert Meters to Kilometers\09. Chars to String\bin\Debug\netcoreapp3.1\09. Chars to String.exe
+C:\Users\Sherif\source\repos\01. Convert Meters to Kilometers\09. Chars to String\bin\Debug\netcoreapp3.1\09. Chars to String.deps.json
+C:\Users\Sherif\source\repos\01. Convert Meters to Kilometers\09. Chars to String\bin\Debug\netcoreapp3.1\09. Chars to String.runtimeconfig.json
+C:\Users\Sherif\source\repos\01. Convert Meters to Kilometers\09. Chars to String\bin\Debug\netcoreapp3.1\09. Chars to String.runtimeconfig.dev.json
+C:\Users\Sherif\source\repos\01. Convert Meters to Kilometers\09. Chars to String\bin\Debug\netcoreapp3.1\09. Chars to String.dll
+C:\Users\Sherif\source\repos\01. Convert Meters to Kilometers\09. Chars to String\bin\Debug\netcoreapp3.1\09. Chars to String.pdb
+C:\Users\Sherif\source\repos\01. Convert Meters to Kilometers\09. Chars to String\obj\Debug\netcoreapp3.1\09. Chars to String.csproj.AssemblyReference.cache
+C:\Users\Sherif\source\repos\01. Convert Meters to Kilometers\09. Chars to String\obj\Debug\netcoreapp3.1\09. Chars to String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sherif\source\repos\01. Convert Meters to Kilometers\09. Chars to String\obj\Debug\netcoreapp3.1\09. Chars to String.AssemblyInfoInputs.cache
+C:\Users\Sherif\source\repos\01. Convert Meters to Kilometers\09. Chars to String\obj\Debug\netcoreapp3.1\09. Chars to String.AssemblyInfo.cs
+C:\Users\Sherif\source\repos\01. Convert Meters to Kilometers\09. Chars to String\obj\Debug\netcoreapp3.1\09. Chars to String.csproj.CoreCompileInputs.cache
+C:\Users\Sherif\source\repos\01. Convert Meters to Kilometers\09. Chars to String\obj\Debug\netcoreapp3.1\09. Chars to String.dll
+C:\Users\Sherif\source\repos\01. Convert Meters to Kilometers\09. Chars to String\obj\Debug\netcoreapp3.1\09. Chars to String.pdb
+C:\Users\Sherif\source\repos\01. Convert Meters to Kilometers\09. Chars to String\obj\Debug\netcoreapp3.1\09. Chars to String.genruntimeconfig.cache

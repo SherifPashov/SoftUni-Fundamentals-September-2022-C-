@@ -1,0 +1,14 @@
+C:\Users\Sherif\Desktop\софтуни\01. Train\05. Top Integers\bin\Debug\netcoreapp3.1\05. Top Integers.exe
+C:\Users\Sherif\Desktop\софтуни\01. Train\05. Top Integers\bin\Debug\netcoreapp3.1\05. Top Integers.deps.json
+C:\Users\Sherif\Desktop\софтуни\01. Train\05. Top Integers\bin\Debug\netcoreapp3.1\05. Top Integers.runtimeconfig.json
+C:\Users\Sherif\Desktop\софтуни\01. Train\05. Top Integers\bin\Debug\netcoreapp3.1\05. Top Integers.runtimeconfig.dev.json
+C:\Users\Sherif\Desktop\софтуни\01. Train\05. Top Integers\bin\Debug\netcoreapp3.1\05. Top Integers.dll
+C:\Users\Sherif\Desktop\софтуни\01. Train\05. Top Integers\bin\Debug\netcoreapp3.1\05. Top Integers.pdb
+C:\Users\Sherif\Desktop\софтуни\01. Train\05. Top Integers\obj\Debug\netcoreapp3.1\05. Top Integers.csproj.AssemblyReference.cache
+C:\Users\Sherif\Desktop\софтуни\01. Train\05. Top Integers\obj\Debug\netcoreapp3.1\05. Top Integers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sherif\Desktop\софтуни\01. Train\05. Top Integers\obj\Debug\netcoreapp3.1\05. Top Integers.AssemblyInfoInputs.cache
+C:\Users\Sherif\Desktop\софтуни\01. Train\05. Top Integers\obj\Debug\netcoreapp3.1\05. Top Integers.AssemblyInfo.cs
+C:\Users\Sherif\Desktop\софтуни\01. Train\05. Top Integers\obj\Debug\netcoreapp3.1\05. Top Integers.csproj.CoreCompileInputs.cache
+C:\Users\Sherif\Desktop\софтуни\01. Train\05. Top Integers\obj\Debug\netcoreapp3.1\05. Top Integers.dll
+C:\Users\Sherif\Desktop\софтуни\01. Train\05. Top Integers\obj\Debug\netcoreapp3.1\05. Top Integers.pdb
+C:\Users\Sherif\Desktop\софтуни\01. Train\05. Top Integers\obj\Debug\netcoreapp3.1\05. Top Integers.genruntimeconfig.cache

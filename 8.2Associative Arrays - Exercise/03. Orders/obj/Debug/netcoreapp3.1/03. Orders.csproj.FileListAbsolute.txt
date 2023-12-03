@@ -1,0 +1,14 @@
+C:\Users\Sherif\Desktop\софтуни\8.2Associative Arrays - Exercise\03. Orders\bin\Debug\netcoreapp3.1\03. Orders.exe
+C:\Users\Sherif\Desktop\софтуни\8.2Associative Arrays - Exercise\03. Orders\bin\Debug\netcoreapp3.1\03. Orders.deps.json
+C:\Users\Sherif\Desktop\софтуни\8.2Associative Arrays - Exercise\03. Orders\bin\Debug\netcoreapp3.1\03. Orders.runtimeconfig.json
+C:\Users\Sherif\Desktop\софтуни\8.2Associative Arrays - Exercise\03. Orders\bin\Debug\netcoreapp3.1\03. Orders.runtimeconfig.dev.json
+C:\Users\Sherif\Desktop\софтуни\8.2Associative Arrays - Exercise\03. Orders\bin\Debug\netcoreapp3.1\03. Orders.dll
+C:\Users\Sherif\Desktop\софтуни\8.2Associative Arrays - Exercise\03. Orders\bin\Debug\netcoreapp3.1\03. Orders.pdb
+C:\Users\Sherif\Desktop\софтуни\8.2Associative Arrays - Exercise\03. Orders\obj\Debug\netcoreapp3.1\03. Orders.csproj.AssemblyReference.cache
+C:\Users\Sherif\Desktop\софтуни\8.2Associative Arrays - Exercise\03. Orders\obj\Debug\netcoreapp3.1\03. Orders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sherif\Desktop\софтуни\8.2Associative Arrays - Exercise\03. Orders\obj\Debug\netcoreapp3.1\03. Orders.AssemblyInfoInputs.cache
+C:\Users\Sherif\Desktop\софтуни\8.2Associative Arrays - Exercise\03. Orders\obj\Debug\netcoreapp3.1\03. Orders.AssemblyInfo.cs
+C:\Users\Sherif\Desktop\софтуни\8.2Associative Arrays - Exercise\03. Orders\obj\Debug\netcoreapp3.1\03. Orders.csproj.CoreCompileInputs.cache
+C:\Users\Sherif\Desktop\софтуни\8.2Associative Arrays - Exercise\03. Orders\obj\Debug\netcoreapp3.1\03. Orders.dll
+C:\Users\Sherif\Desktop\софтуни\8.2Associative Arrays - Exercise\03. Orders\obj\Debug\netcoreapp3.1\03. Orders.pdb
+C:\Users\Sherif\Desktop\софтуни\8.2Associative Arrays - Exercise\03. Orders\obj\Debug\netcoreapp3.1\03. Orders.genruntimeconfig.cache

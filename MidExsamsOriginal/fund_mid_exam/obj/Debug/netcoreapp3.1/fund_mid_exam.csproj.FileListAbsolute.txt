@@ -1,0 +1,14 @@
+C:\Users\Sherif\Desktop\софтуни\MidExsamsOriginal\fund_mid_exam\bin\Debug\netcoreapp3.1\fund_mid_exam.exe
+C:\Users\Sherif\Desktop\софтуни\MidExsamsOriginal\fund_mid_exam\bin\Debug\netcoreapp3.1\fund_mid_exam.deps.json
+C:\Users\Sherif\Desktop\софтуни\MidExsamsOriginal\fund_mid_exam\bin\Debug\netcoreapp3.1\fund_mid_exam.runtimeconfig.json
+C:\Users\Sherif\Desktop\софтуни\MidExsamsOriginal\fund_mid_exam\bin\Debug\netcoreapp3.1\fund_mid_exam.runtimeconfig.dev.json
+C:\Users\Sherif\Desktop\софтуни\MidExsamsOriginal\fund_mid_exam\bin\Debug\netcoreapp3.1\fund_mid_exam.dll
+C:\Users\Sherif\Desktop\софтуни\MidExsamsOriginal\fund_mid_exam\bin\Debug\netcoreapp3.1\fund_mid_exam.pdb
+C:\Users\Sherif\Desktop\софтуни\MidExsamsOriginal\fund_mid_exam\obj\Debug\netcoreapp3.1\fund_mid_exam.csproj.AssemblyReference.cache
+C:\Users\Sherif\Desktop\софтуни\MidExsamsOriginal\fund_mid_exam\obj\Debug\netcoreapp3.1\fund_mid_exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sherif\Desktop\софтуни\MidExsamsOriginal\fund_mid_exam\obj\Debug\netcoreapp3.1\fund_mid_exam.AssemblyInfoInputs.cache
+C:\Users\Sherif\Desktop\софтуни\MidExsamsOriginal\fund_mid_exam\obj\Debug\netcoreapp3.1\fund_mid_exam.AssemblyInfo.cs
+C:\Users\Sherif\Desktop\софтуни\MidExsamsOriginal\fund_mid_exam\obj\Debug\netcoreapp3.1\fund_mid_exam.csproj.CoreCompileInputs.cache
+C:\Users\Sherif\Desktop\софтуни\MidExsamsOriginal\fund_mid_exam\obj\Debug\netcoreapp3.1\fund_mid_exam.dll
+C:\Users\Sherif\Desktop\софтуни\MidExsamsOriginal\fund_mid_exam\obj\Debug\netcoreapp3.1\fund_mid_exam.pdb
+C:\Users\Sherif\Desktop\софтуни\MidExsamsOriginal\fund_mid_exam\obj\Debug\netcoreapp3.1\fund_mid_exam.genruntimeconfig.cache

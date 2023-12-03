@@ -1,0 +1,14 @@
+C:\Users\Sherif\Desktop\софтуни\8.1Associative Arrays - Lab\03. Word Synonyms\bin\Debug\netcoreapp3.1\03. Word Synonyms.exe
+C:\Users\Sherif\Desktop\софтуни\8.1Associative Arrays - Lab\03. Word Synonyms\bin\Debug\netcoreapp3.1\03. Word Synonyms.deps.json
+C:\Users\Sherif\Desktop\софтуни\8.1Associative Arrays - Lab\03. Word Synonyms\bin\Debug\netcoreapp3.1\03. Word Synonyms.runtimeconfig.json
+C:\Users\Sherif\Desktop\софтуни\8.1Associative Arrays - Lab\03. Word Synonyms\bin\Debug\netcoreapp3.1\03. Word Synonyms.runtimeconfig.dev.json
+C:\Users\Sherif\Desktop\софтуни\8.1Associative Arrays - Lab\03. Word Synonyms\bin\Debug\netcoreapp3.1\03. Word Synonyms.dll
+C:\Users\Sherif\Desktop\софтуни\8.1Associative Arrays - Lab\03. Word Synonyms\bin\Debug\netcoreapp3.1\03. Word Synonyms.pdb
+C:\Users\Sherif\Desktop\софтуни\8.1Associative Arrays - Lab\03. Word Synonyms\obj\Debug\netcoreapp3.1\03. Word Synonyms.csproj.AssemblyReference.cache
+C:\Users\Sherif\Desktop\софтуни\8.1Associative Arrays - Lab\03. Word Synonyms\obj\Debug\netcoreapp3.1\03. Word Synonyms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sherif\Desktop\софтуни\8.1Associative Arrays - Lab\03. Word Synonyms\obj\Debug\netcoreapp3.1\03. Word Synonyms.AssemblyInfoInputs.cache
+C:\Users\Sherif\Desktop\софтуни\8.1Associative Arrays - Lab\03. Word Synonyms\obj\Debug\netcoreapp3.1\03. Word Synonyms.AssemblyInfo.cs
+C:\Users\Sherif\Desktop\софтуни\8.1Associative Arrays - Lab\03. Word Synonyms\obj\Debug\netcoreapp3.1\03. Word Synonyms.csproj.CoreCompileInputs.cache
+C:\Users\Sherif\Desktop\софтуни\8.1Associative Arrays - Lab\03. Word Synonyms\obj\Debug\netcoreapp3.1\03. Word Synonyms.dll
+C:\Users\Sherif\Desktop\софтуни\8.1Associative Arrays - Lab\03. Word Synonyms\obj\Debug\netcoreapp3.1\03. Word Synonyms.pdb
+C:\Users\Sherif\Desktop\софтуни\8.1Associative Arrays - Lab\03. Word Synonyms\obj\Debug\netcoreapp3.1\03. Word Synonyms.genruntimeconfig.cache
